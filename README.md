@@ -18,7 +18,8 @@ Cleanse is a free, open-source tool for Windows, focused on clearing leftover
 
 ## 🛠️ Tech Stack
 * C++20
-* SFML 2.6
+* SFML 2.6 (graphics lib)
+* cpr (libcpr wrapper lib)
 
 ## 🌐 Website
 Visit the official website to download the latest version of Cleanse: https://cleanse.infinityfreeapp.com/
