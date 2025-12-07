@@ -16,6 +16,10 @@ Cleanse is a free, open-source tool for Windows, focused on clearing leftover
 * ⏳ Advanced logs
 * ⏳ Possibly a system for detecting leftover files from uninstalled apps
 
+## 🛠️ Tech Stack
+* C++20
+* SFML 2.6
+
 ## 🌐 Website
 Visit the official website to download the latest version of Cleanse: https://cleanse.infinityfreeapp.com/
 
